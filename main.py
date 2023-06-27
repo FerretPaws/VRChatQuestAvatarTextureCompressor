@@ -23,4 +23,4 @@ def resize_images(parent_folder, new_size):
     print("Image resizing complete.")
 
 # Example usage: Resize all images to 512x512 within the "parent_folder"
-resize_images("C:/Users/Legacy/Desktop/Questify/Assets", 512)
+resize_images("Your Unity Project's Asset Folder goes here. Leave it at the parent folder.", 512)
